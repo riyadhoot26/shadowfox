@@ -138,10 +138,6 @@ I implemented a **Bank Account Management System** featuring:
     ```bash
     java InventoryManagementSystem
     ```
-```bash
-riya
-```
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
