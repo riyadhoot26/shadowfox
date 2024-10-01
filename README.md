@@ -1,6 +1,6 @@
 # Java Development Internship - ShadowFox
 
-This repository contains all the tasks and projects I completed during my Java Development Internship at ShadowFox. The internship provided an excellent opportunity to deepen my understanding of Java programming, socket programming, unit testing, and data management. Below is a summary of the tasks, projects, and technologies used throughout the internship.
+This repository contains all the tasks and projects I completed during my Java Development Internship at ShadowFox. The internship provided an excellent opportunity to deepen my understanding of Java programming, socket programming, and data management. Below is a summary of the tasks, projects, and technologies used throughout the internship.
 
 ## Table of Contents
 - [About the Internship](#about-the-internship)
@@ -8,8 +8,6 @@ This repository contains all the tasks and projects I completed during my Java D
   - [Console-Based Calculator](#console-based-calculator)
   - [Console-Based Contact Management System](#console-based-contact-management-system)
   - [Java Chatting Application](#java-chatting-application)
-  - [Inventory Management System](#inventory-management-system)
-  - [Bank Account Management System with Unit Testing](#bank-account-management-system-with-unit-testing)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -61,18 +59,7 @@ I built a **Java Chatting Application** using socket programming, which includes
 - Implementation of Java socket programming for networking
 - A simple GUI for chat interaction
 
-### Inventory Management System
-I developed an **Inventory Management System** with a graphical user interface using Java Swing, which includes:
-- **Item Management:** Add, update, delete, and search inventory items.
-- **Data Sorting:** Sort items by name, quantity, or price.
-- **Export Functionality:** Export inventory data to a CSV file.
-- **User-Friendly Interface:** An intuitive GUI for managing inventory items.
 
-### Bank Account Management System with Unit Testing
-I implemented a **Bank Account Management System** featuring:
-- **Account Management:** Create, view, update, and delete bank accounts.
-- **Transaction Handling:** Process deposits, withdrawals, and balance checks.
-- **Unit Testing:** Developed comprehensive unit tests using JUnit to ensure the reliability of the system.
 
 ## Technologies Used
 - **Programming Languages:** Java
@@ -80,7 +67,6 @@ I implemented a **Bank Account Management System** featuring:
 - **Tools:** Visual Studio Code (VSCode)
 - **Data Management:** Arrays, Lists
 - **GUI:** Java Swing
-- **Testing:** JUnit
 
 ## Installation
 
@@ -130,14 +116,7 @@ I implemented a **Bank Account Management System** featuring:
     java Task_Level_Advanced\RealTimeChatApplicationWithJavaSocketProgramming\Chatting Application\src\chatting\application\Client
     ```
 
-- To run the Inventory Management System, navigate to the inventory management directory and compile the Java files:
-    ```bash
-    javac InventoryManagementSystem.java
-    ```
-  Run the application:
-    ```bash
-    java InventoryManagementSystem
-    ```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
